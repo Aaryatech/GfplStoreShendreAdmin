@@ -14,7 +14,7 @@ public class VpsImageUpload {
 	//public static final String FLOUR_MAP= "/home/aaryate1/exhibition.aaryatechindia.in/tomcat-8.0.18/webapps/uploads/FLOURMAP/";
 	//public static final String Item_Image= "C:/pdf/";
 	//public static final String Item_Image= "/opt/tomcat-latest/webapps/mongistoreuploads/";
-	
+	 
 	public static final String Item_Image= "/home/devour/apache-tomcat-9.0.12/webapps/mongistoreuploads/";
 	//public static final String Item_Image= "/home/aaryate1/tomcat.aaryatechindia.in/tomcat-8.0.18/webapps/uploads/Item/";
 	public static final String SPONSOR_FOLDER = "/home/aaryate1/exhibition.aaryatechindia.in/tomcat-8.0.18/webapps/uploads/SPONSOR/";
